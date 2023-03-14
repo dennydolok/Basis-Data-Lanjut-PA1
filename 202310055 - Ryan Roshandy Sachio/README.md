@@ -9,6 +9,7 @@
    
    > ### `202310055` - `Ryan Roshandy Sachio`
    > 20 - TI - PA 1 (mengikut kelas karyawan karena Magang dan tidak dapat hadir dijadwal yang telah ditentukan pada kelas PA 1)
+   > 
    > IBI Kesatuan Bogor
    
 </body>
